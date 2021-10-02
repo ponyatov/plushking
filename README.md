@@ -1,9 +1,9 @@
 #  ![logo](doc/logo.png) `plushking`
-## ваш склад барахла | junk warehouse
+## система складского учёта для мастерской
 
 (c) Dmitry Ponyatov <<dponyatov@gmail.com>> 2020 All rights reserved
 
-github: https://bitbucket.org/ponyatov/plushking/src/ponymuck/
+github: https://github.com/ponyatov/plushking/
 
 
 <hr>
