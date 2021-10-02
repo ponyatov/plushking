@@ -1,0 +1,65 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label":          "project: install",
+            "type":           "shell",
+            "command":        "make install",
+            "problemMatcher": []
+        },
+        {
+            "label":          "project: update",
+            "type":           "shell",
+            "command":        "make update",
+            "problemMatcher": []
+        },
+        {
+            "label":          "git: ponymuck",
+            "type":           "shell",
+            "command":        "make ponymuck",
+            "problemMatcher": []
+        },
+        {
+            "label":          "git: dev",
+            "type":           "shell",
+            "command":        "make dev",
+            "problemMatcher": []
+        },
+        {
+            "label":          "metaL: meta",
+            "type":           "shell",
+            "command":        "make meta",
+            "problemMatcher": []
+        },
+        {
+            "label":          "django: runserver",
+            "type":           "shell",
+            "command":        "make runserver",
+            "problemMatcher": []
+        },
+        {
+            "label":          "django: makemigrations",
+            "type":           "shell",
+            "command":        "make makemigrations",
+            "problemMatcher": []
+        },
+        {
+            "label":          "django: migrate",
+            "type":           "shell",
+            "command":        "make migrate",
+            "problemMatcher": []
+        },
+        {
+            "label":          "django: dumpdata",
+            "type":           "shell",
+            "command":        "make dumpdata",
+            "problemMatcher": []
+        },
+        {
+            "label":          "django: loaddata",
+            "type":           "shell",
+            "command":        "make loaddata",
+            "problemMatcher": []
+        },
+    ]
+}

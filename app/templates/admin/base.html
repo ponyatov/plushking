@@ -1,0 +1,14 @@
+
+{# https://stackoverflow.com/questions/67135053/can-someone-explain-to-my-why-my-django-admin-theme-is-dark #}
+{% extends 'admin/base.html' %}
+
+{% block extrahead %}{{ block.super }}
+<style>
+
+    h1 { color: #0af; }
+    caption { background: #023 !important; }
+    :root {
+    }
+</style>
+{% endblock %}
+

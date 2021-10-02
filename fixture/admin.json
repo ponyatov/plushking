@@ -1,0 +1,21 @@
+[
+    {
+        "model": "app.customuser",
+        "pk": 1,
+        "fields": {
+            "password": "pbkdf2_sha256$260000$zmTo77UpOSFFM0VsnFo6Wr$SQYvj/o9IijWywXDasN9qfVRAaiZRAR4+q+x+/UbcJk=",
+            "last_login": "2021-10-01T15:39:54.875216Z",
+            "is_superuser": true,
+            "username": "dponyatov",
+            "first_name": "Dmitry",
+            "second_name": "A",
+            "last_name": "Ponyatov",
+            "email": "dponyatov@gmail.com",
+            "is_staff": true,
+            "is_active": true,
+            "date_joined": "2021-10-01T15:39:54.875216Z",
+            "groups": [],
+            "user_permissions": []
+        }
+    }
+]

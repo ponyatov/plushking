@@ -1,0 +1,10 @@
+*~
+*.swp
+*.log
+
+/docs/
+/plushking/
+
+__pycache__/
+
+!.gitignore
