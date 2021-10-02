@@ -28,6 +28,7 @@ PYT     = $(PYPATH)/pytest
 # \ src
 Y   += $(MODULE).metaL.py metaL.py
 Y   += manage.py
+P   += config.py
 Y   += $(shell find project -type f -regex ".+.py$$")
 Y   += $(shell find app     -type f -regex ".+.py$$")
 S   += $(shell echo $(Y) | grep -v "migrations/0")
