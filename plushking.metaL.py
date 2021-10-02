@@ -1,10 +1,10 @@
 ## @file
-## @brief meta: ваш склад барахла | junk warehouse
+## @brief meta: система складского учёта для мастерской
 
 from metaL import *
 
 p = Project(
-    title='''ваш склад барахла | junk warehouse''',
+    title='''система складского учёта для мастерской''',
     about='''''') \
     | Python() \
     | Django()
